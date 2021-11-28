@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuantumRevenant
-- 👀 I’m interested in learn code to improve my projects
+- 👀 I’m interested in learn code to improve my projects in game dev.
 - 🌱 I’m currently learning python and C# for Unity
 - 📫 How to reach me write me in my social networks, All my links: https://linktr.ee/QuantumRevenant
 
